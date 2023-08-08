@@ -16,4 +16,4 @@ following:
 
 Once you have [Python3 installed](https://www.python.org/downloads/), run the following command to set up the notebook requirements:
 
-'pip install numpy matplotlib jupyterlab'
+`pip install numpy matplotlib jupyterlab`
