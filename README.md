@@ -11,3 +11,9 @@ following:
 2. backward pass (including local gradients)
 3. Data selection for SGD
 4. Label prediction given trained weights
+
+## Setup
+
+Once you have [Python3 installed](https://www.python.org/downloads/), run the following command to set up the notebook requirements:
+
+'pip install numpy matplotlib jupyterlab'
