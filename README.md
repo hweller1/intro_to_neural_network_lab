@@ -17,9 +17,9 @@ following:
 Once you have [Python3 installed](https://www.python.org/downloads/), run the following commands to install the notebook requirements and run the notebook locally
 from the repo directory:
 
-`$ python3 -m venv venv`
-`$ source venv/bin/activate`
-`$ pip install numpy matplotlib jupyterlab`
+`$ python3 -m venv venv`\
+`$ source venv/bin/activate`\
+`$ pip install numpy matplotlib jupyterlab`\
 `$ jupyter lab`
 
 
